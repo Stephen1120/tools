@@ -3,7 +3,7 @@
 # We also add files, saleae_logic.desktop and logo_saleae_logic.png
 #
 
-# stephen@stephen-desktop:/usr/share/applications$ cat xmind.desktop 
+# stephen@stephen-desktop:/usr/share/applications$ cat saleae-logic.desktop 
 # [Desktop Entry]
 # Name=Saleae_logic
 # Exec=/data/stephen_tools/tools/run-saleae-logic.sh
